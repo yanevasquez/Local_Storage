@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Acme|Bubblegum+Sans');
+@import url('https://fonts.googleapis.com/css?family=Kreon');
+
+input[type=button]{
+    background-color: #4f8abd;
+    border-radius: 4px;
+    color: white;
+    padding: 9px 17px;
+    text-decoration: none;
+    margin: 5px 2px;
+    cursor: pointer;
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 18px
+  }
+
+input[type=text] {
+    width: 45%;
+    padding: 12px 6px;
+    margin: 9px 3px;
+    border: 1px solid rgb(142, 149, 152);
+  }
+
+p {
+    margin: 0px;
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 19px
+}
+
+span {
+    font-family: 'Kreon', serif;
+    font-size : 22px
+}
+
+h3 {
+    margin:20px, 20px ;
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 28px
+}
+
